@@ -1,7 +1,9 @@
 # Stopwatch-Project
 Hosted Link:"https://my-stopwatch-js-project.netlify.app/"
+
 Problem statement
 Create a stopwatch app. Use ONLY vanilla javascript, no libraries or frameworks allowed for Javascript (you can use any css framework like Bootstrap).
+
 Features
 Start timer
 On click of start button, start the timer
